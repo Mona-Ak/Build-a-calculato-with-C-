@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\monaa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\monaa\\.nuget\\packages"
+    ]
+  }
+}

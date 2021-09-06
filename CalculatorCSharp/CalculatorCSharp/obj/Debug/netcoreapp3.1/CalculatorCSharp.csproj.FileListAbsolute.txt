@@ -1,0 +1,13 @@
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\netcoreapp3.1\CalculatorCSharp.exe
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\netcoreapp3.1\CalculatorCSharp.deps.json
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\netcoreapp3.1\CalculatorCSharp.runtimeconfig.json
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\netcoreapp3.1\CalculatorCSharp.runtimeconfig.dev.json
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\netcoreapp3.1\CalculatorCSharp.dll
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\bin\Debug\netcoreapp3.1\CalculatorCSharp.pdb
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\netcoreapp3.1\CalculatorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\netcoreapp3.1\CalculatorCSharp.AssemblyInfoInputs.cache
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\netcoreapp3.1\CalculatorCSharp.AssemblyInfo.cs
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\netcoreapp3.1\CalculatorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\netcoreapp3.1\CalculatorCSharp.dll
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\netcoreapp3.1\CalculatorCSharp.pdb
+C:\Users\monaa\source\repos\CalculatorCSharp\CalculatorCSharp\obj\Debug\netcoreapp3.1\CalculatorCSharp.genruntimeconfig.cache
